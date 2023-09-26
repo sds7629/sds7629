@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3>📌 Stack </h3>
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
