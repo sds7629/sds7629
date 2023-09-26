@@ -26,6 +26,8 @@
 <hr>
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sds7629&layout=compact">
-  
+<br>
+<br>
+	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sds7629&show_icons=true&theme=radical)
 </div>
